@@ -31,6 +31,5 @@
 - **Churn Prediction** — модель оттока (LogReg и RandomForest), метрики и ROC‑кривая.  
   Репозиторий: https://github.com/lvrv/churn-prediction
 
-## Контакты
-- https://t.me/lvrv0
+
 
